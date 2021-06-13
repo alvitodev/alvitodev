@@ -1,3 +1,7 @@
+![Alvito Devanova Banner Image](./banner.png)
+<!-- <h2 align='center'>AlvitoDevanova @ Alvitodev</h2>
+<p align='center'><b>Student of Senior High School 2 at nganjuk</b></p> -->
+
 <h2>Hey! 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=alvitodev.alvitodev)](https://github.com/alvitodev) [![GitHub followers](https://img.shields.io/github/followers/alvitodev.svg?style=social&label=Follow)](https://github.com/alvitodev?tab=followers)
