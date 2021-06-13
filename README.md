@@ -10,7 +10,7 @@ I'm Alvito Devanova!
 
 __State High School 2 Nganjuk__
 - Graphic Design
-- Front-end Website such as JavaScript, HTML, CSS
+- Front-end Website such as <a>(https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</a> 
 - 3D Modeling (Learning Soon)
 
 <h2>Currently working on:</h2>
