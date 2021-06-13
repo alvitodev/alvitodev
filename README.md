@@ -32,7 +32,7 @@ Check out the GitHub repository:
 
 I'm a Senior High School Student on SMAN 2 NGANJUK, Indonesia. I love to designing, photography, gaming, electronic tinkering, enjoy music and explore nature outdoors. If you are around Nganjuk, drop an Instagram DM and let's catch-up over Coffee!
  
-- Check out my Blog: [https://neojourney.github.io](https://neojourney.github.io)
+- Check out my Blog: [https://neojourney.github.io](https://neojourney.github.io/)
 - Know more about me: [About Alvito](https://neojourney.github.io/pages/about)
 - Write to me: [zillioncraft701@gmail.com](mailto:zillioncraft701@gmail.com)
 
