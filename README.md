@@ -18,7 +18,7 @@ __State High School 2 Nganjuk__
 - 3D Modeling (Learning Soon)
 
 <h2>Currently working on:</h2>
-<h4>#NeoJourney Website 💯</h4>
+<h4># NeoJourney Pages 💯</h4>
 
 __NeoJourney__ is a challenge that I created for myself to collect my portofolio, combines several essential online tools, and also learning Front-end website.
 
@@ -32,11 +32,15 @@ Check out the GitHub repository:
   </p>
 </div>
 
+<h4># Alvitodev Pages 💯 (yes my own pages)</h4>
+
+__Alvitodev__ , probably same like above, but for formal purpose like school and other.
+
 <h2> About Alvito⚡:</h2>
 
 I'm a Senior High School Student on SMAN 2 NGANJUK, Indonesia. I love to designing, photography, gaming, electronic tinkering, enjoy music and explore nature outdoors. If you are around Nganjuk, drop an Instagram DM and let's catch-up over Coffee!
  
-- Check out my Blog: [https://neojourney.github.io](https://neojourney.github.io/)
+- Check out my Pages: [https://neojourney.github.io/](https://neojourney.github.io/)
 - Know more about me: [About Alvito](https://neojourney.github.io/pages/about)
 - Write to me: [zillioncraft701@gmail.com](mailto:zillioncraft701@gmail.com)
 
