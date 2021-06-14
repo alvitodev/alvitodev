@@ -26,7 +26,7 @@ Check out the GitHub repository:
 
 <div>
   <p>
-    <a href="https://github.com/alvitodev/neojourney.github.io">
+    <a href="https://github.com/neojourney/neojourney.github.io">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvitodev&repo=neojourney.github.io&show_owner=True" alt="GitHub Stats" />
     </a>
   </p>
