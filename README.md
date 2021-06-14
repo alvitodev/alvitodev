@@ -36,6 +36,16 @@ Check out the GitHub repository:
 
 __Alvitodev__ , probably same like above, but for formal purpose like school and other.
 
+Check out the GitHub repository:
+
+<div>
+  <p>
+    <a href="https://github.com/alvitodev/alvitodev.github.io">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvitodev&repo=neojourney.github.io&show_owner=True" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+
 <h2> About Alvito⚡:</h2>
 
 I'm a Senior High School Student on SMAN 2 NGANJUK, Indonesia. I love to designing, photography, gaming, electronic tinkering, enjoy music and explore nature outdoors. If you are around Nganjuk, drop an Instagram DM and let's catch-up over Coffee!
