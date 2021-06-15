@@ -27,7 +27,7 @@ Check out the GitHub repository:
 <div>
   <p>
     <a href="https://github.com/neojourney/neojourney.github.io">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvitodev&repo=neojourney.github.io&show_owner=True" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=neojourney&repo=neojourney.github.io&show_owner=True" alt="GitHub Stats" />
     </a>
   </p>
 </div>
@@ -41,7 +41,7 @@ Check out the GitHub repository:
 <div>
   <p>
     <a href="https://github.com/alvitodev/alvitodev.github.io">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvitodev&repo=neojourney.github.io&show_owner=True" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvitodev&repo=alvitodev.github.io&show_owner=True" alt="GitHub Stats" />
     </a>
   </p>
 </div>
