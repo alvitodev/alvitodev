@@ -17,26 +17,13 @@ __State High School 2 Nganjuk__
 - Front-end Website such as JavaScript, HTML, CSS
 - 3D Modeling (Learning Soon)
 
-<h2>Currently working on:</h2>
-<h4># NeoJourney Pages 💯</h4>
+<h2>Currently working on :</h2>
 
-__NeoJourney__ is a challenge that I created for myself to collect my portofolio, combines several essential online tools, and also learning Front-end website.
+<h4># Alvitodev Pages 💯</h4>
 
-Check out the GitHub repository:
+__Alvitodev__ is a challenge that I created for myself to collect my portofolio, combines several essential online tools, and also learning Front-end website.
 
-<div>
-  <p>
-    <a href="https://github.com/neojourney/neojourney.github.io">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=neojourney&repo=neojourney.github.io&show_owner=True" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
-<h4># Alvitodev Pages 💯 (yes my own pages)</h4>
-
-__Alvitodev__ , probably same like above, but for formal purpose like school and other.
-
-Check out the GitHub repository:
+Check out the GitHub repository :
 
 <div>
   <p>
