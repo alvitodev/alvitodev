@@ -33,14 +33,14 @@ Check out the GitHub repository :
   </p>
 </div>
 
-<h2> About Alvito⚡:</h2>
+<h2> About Me⚡:</h2>
 
 I'm a Senior High School Student on SMAN 2 NGANJUK, Indonesia. I love to designing, photography, gaming, electronic tinkering, enjoy music and explore nature outdoors. If you are around Nganjuk, drop an Instagram DM and let's catch-up over Coffee!
  
-- Check out my Pages: [https://neojourney.github.io/](https://neojourney.github.io/)
-- Know more about me: [About Alvito](https://neojourney.github.io/pages/about)
+- Check out my Pages: [https://alvitodev.github.io/](https://alvitodev.github.io/)
+- Know more about me: [About Alvito](https://alvitodev.github.io/about)
 - Write to me: [zillioncraft701@gmail.com](mailto:zillioncraft701@gmail.com)
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:zillioncraft701@gmail.com">![zillioncraft701@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.instagram.com/zllnlul">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a> <a href="https://discord.gg/XmPuS2v">![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a> <a href="https://youtube.com/alvitodev">![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
+<a href="mailto:zillioncraft701@gmail.com">![zillioncraft701@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.instagram.com/zllnlul">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a> <a href="https://discord.gg/esPpKPbzqC">![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a> <a href="https://youtube.com/alvitodev">![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
