@@ -14,9 +14,10 @@ I'm Alvito Devanova!
 
 __State High School 2 Nganjuk__
 - Graphic Design
-- Front-end Website such as JavaScript, HTML, CSS
-- 3D Modeling (Learning Soon)
-- C++
+- Front-end development
+- Broadcasting system
+- Competitive programming
+- Electronics stuff
 
 <h2>Currently working on :</h2>
 
@@ -37,7 +38,6 @@ Check out the GitHub repository :
 <h2> About Me⚡:</h2>
 
 I'm a Senior High School Student on SMAN 2 NGANJUK, Indonesia. I love to designing, photography, electronic tinkering, gaming, enjoy music and explore nature outdoors. If you are around Nganjuk, drop an Instagram DM and let's catch-up over Coffee!
-<i>btw i'm a fan of civic FD2R</i>
  
 - Check out my Pages: [https://alvitodev.github.io/](https://alvitodev.github.io/)
 - Know more about me: [About Alvito](https://alvitodev.github.io/about)
