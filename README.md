@@ -7,8 +7,8 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=alvitodev.alvitodev)](https://github.com/alvitodev) [![GitHub followers](https://img.shields.io/github/followers/alvitodev.svg?style=social&label=Follow)](https://github.com/alvitodev?tab=followers)
 
 I'm Alvito Devanova! 
-- <i>Currently:</i> State High School 2 Nganjuk
-- <i>Previously:</i> MTsN 3 Nganjuk (Islamic Junior High School)
+- <i>Currently:</i> Yogyakarta State University
+- <i>Previously:</i> Senior High School 2 Nnganjuk
 
 <h2>💻 I'm Currently Learning</h2>
 
