@@ -46,3 +46,5 @@ I'm a Senior High School Student on SMAN 2 NGANJUK, Indonesia. I love to designi
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:devanovaalvito@gmail.com">![devanovaalvito@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.instagram.com/alvitodev">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a> <a href="https://discord.gg/esPpKPbzqC">![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a> <a href="https://youtube.com/alvitodev">![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
+
+<figure><embed src="https://wakatime.com/share/@018ccd8f-c558-4ba8-9ece-aa2a903198d7/9a414e22-3219-4524-9ad9-440ab5fa7454.svg"></embed></figure>
