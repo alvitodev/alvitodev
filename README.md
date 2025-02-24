@@ -1,50 +1,33 @@
-![Alvito Devanova Banner Image](./banner.png)
-<!-- <h2 align='center'>AlvitoDevanova @ Alvitodev</h2>
-<p align='center'><b>Student of Senior High School 2 at nganjuk</b></p> -->
+<h1 align="center">Hi 👋, I'm Alvito</h1>
+<h3 align="center">A passionate system programmer and front-end web programmer. First year Information Technology at UNY.</h3>
 
-<h2>Hey! 👋</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvitodev&label=Profile%20views&color=0e75b6&style=flat" alt="alvitodev" /> </p>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=alvitodev.alvitodev)](https://github.com/alvitodev) [![GitHub followers](https://img.shields.io/github/followers/alvitodev.svg?style=social&label=Follow)](https://github.com/alvitodev?tab=followers)
+- 🔭 I’m currently working on my personal website for putting all my works here [alvito.dev](https://github.com/alvitodev/alvitodev.github.io)
 
-I'm Alvito Devanova! 
-- <i>Currently:</i> Yogyakarta State University
-- <i>Previously:</i> Senior High School 2 Nnganjuk
+- 🌱 I’m currently learning **Astro, Tailwind, Javascript, C++ and Java for Competitive Programming. I also want to learn Rust just for curiosity.**
 
-<h2>💻 I'm Currently Learning</h2>
+- 👨‍💻 All of my projects and articles are available at [https://alvito.is-a.dev/](https://alvito.is-a.dev/)
 
-__State High School 2 Nganjuk__
-- Graphic Design
-- Front-end development
-- Broadcasting system
-- Competitive programming
-- Electronics stuff
+- 📫 How to reach me **alvitodev@protonmail.com**
 
-<h2>Currently working on :</h2>
+- 📄 Know about my experiences [https://linkedin.com/in/alvitodev](https://linkedin.com/in/alvitodev)
 
-<h4># Alvitodev Pages 💯</h4>
+- ⚡ Fun fact **I really love Nasi Pecel🤤**
 
-__Alvitodev__ is a challenge that I created for myself to collect my portofolio, combines several essential online tools, and also learning Front-end website.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alvitodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvitodev" height="30" width="40" /></a>
+<a href="https://instagram.com/alvitodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alvitodev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/alvitodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alvitodev" height="30" width="40" /></a>
+</p>
 
-Check out the GitHub repository :
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<div>
-  <p>
-    <a href="https://github.com/alvitodev/alvitodev.github.io">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=alvitodev&repo=alvitodev.github.io&show_owner=True" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/alvitodev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="alvitodev" /></a></p><br><br>
 
-<h2> About Me⚡:</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvitodev&show_icons=true&locale=en&layout=compact" alt="alvitodev" /></p>
 
-I'm a Senior High School Student on SMAN 2 NGANJUK, Indonesia. I love to designing, photography, electronic tinkering, gaming, enjoy music and explore nature outdoors. If you are around Nganjuk, drop an Instagram DM and let's catch-up over Coffee!
- 
-- Check out my Pages: [https://alvitodev.github.io/](https://alvitodev.github.io/)
-- Know more about me: [About Alvito](https://alvitodev.github.io/about)
-- Write to me: [devanovaalvito@gmail.com](mailto:devanovaalvito@gmail.com)
-
-<h2>📫 How to reach me:</h2>
-
-<a href="mailto:devanovaalvito@gmail.com">![devanovaalvito@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.instagram.com/alvitodev">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a> <a href="https://discord.gg/esPpKPbzqC">![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a> <a href="https://youtube.com/alvitodev">![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
-
-<figure><embed src="https://wakatime.com/share/@018ccd8f-c558-4ba8-9ece-aa2a903198d7/9a414e22-3219-4524-9ad9-440ab5fa7454.svg"></embed></figure>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvitodev&show_icons=true&locale=en" alt="alvitodev" /></p>
