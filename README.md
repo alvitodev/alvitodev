@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Astro, Tailwind, Javascript, C++ and Java for Competitive Programming. I also want to learn Rust just for curiosity.**
 
-- 👨‍💻 All of my projects and articles are available at [https://alvito.is-a.dev/](https://alvito.is-a.dev/)
+- 👨‍💻 All of my projects and articles are available at [https://alvito.dev/](https://alvito.dev/)
 
 - 📫 How to reach me **alvitodev@protonmail.com**
 
