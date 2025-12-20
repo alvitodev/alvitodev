@@ -96,6 +96,7 @@ Markdown                           6 hrs 27 mins   █▒░░░░░░░�
 <p><a href="https://ko-fi.com/alvitodev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="alvitodev" /></a></p><br><br>
 
 <br>
-I also wrote blogs, feel free to check out!
+
+##### I also wrote blogs, feel free to check out!
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
