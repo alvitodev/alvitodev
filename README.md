@@ -98,4 +98,9 @@ Markdown                           6 hrs 27 mins   █▒░░░░░░░�
 <br>
 I also wrote blogs, feel free to check out!
 <!-- BLOG-POST-LIST:START -->
+- [v1.5.0: “A Callout Component for Nerds”](https://astro-erudite.vercel.app/writing/callouts-component/)
+- [v1.6.0: &quot;Mobile Navigation &amp; Subposts&quot;](https://astro-erudite.vercel.app/writing/mobile-nav-and-subposts/)
+- [Implementing sticky mobile navigation](https://astro-erudite.vercel.app/writing/mobile-nav-and-subposts/mobile-navigation/)
+- [Implementing file-based subpost routing](https://astro-erudite.vercel.app/writing/mobile-nav-and-subposts/subposts/)
+- [v1.3.0: “Patches in Production”](https://astro-erudite.vercel.app/writing/rehype-patch/)
 <!-- BLOG-POST-LIST:END -->
