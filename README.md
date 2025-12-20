@@ -8,7 +8,7 @@
 
 A passionate system programmer and front-end developer. First year Information Technology at UNY.
 
-[![JavaScript](https://img.shields.io/badge/--orange?logo=instagram&logoColor=white&style=for-the-badge)](https://www.javascript.com/) [![JavaScript](https://img.shields.io/badge/--red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.javascript.com/) [![JavaScript](https://img.shields.io/badge/--orange?logo=instagram&logoColor=white&style=for-the-badge)](https://www.javascript.com/) [![JavaScript](https://img.shields.io/badge/--red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.javascript.com/) [![JavaScript](https://img.shields.io/badge/--orange?logo=instagram&logoColor=white&style=for-the-badge)](https://www.javascript.com/) <img align="right" src="https://komarev.com/ghpvc/?username=alvitodev&label=Profile%20views%20&color=yellow&style=flat" alt="alvitodev" />
+[![JavaScript](https://img.shields.io/badge/--orange?logo=instagram&logoColor=white&style=for-the-badge)](https://www.javascript.com/) [![JavaScript](https://img.shields.io/badge/--red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.javascript.com/) [![JavaScript](https://img.shields.io/badge/--orange?logo=instagram&logoColor=white&style=for-the-badge)](https://www.javascript.com/) [![JavaScript](https://img.shields.io/badge/--red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.javascript.com/) [![JavaScript](https://img.shields.io/badge/--orange?logo=web&logoColor=white&style=for-the-badge)](https://www.javascript.com/) <img align="right" src="https://komarev.com/ghpvc/?username=alvitodev&label=Profile%20views%20&color=yellow&style=flat" alt="alvitodev" />
 
 #
 
@@ -32,11 +32,11 @@ A passionate system programmer and front-end developer. First year Information T
 
 <table class="tg"><thead>
   <tr>
-    <th class="tg-0lax" colspan="2" align="left">Tools I experienced with <img align="right" src="https://wakatime.com/badge/user/018ccd8f-c558-4ba8-9ece-aa2a903198d7.svg"></th>
+    <th class="tg-0lax" colspan="2" align="left">Tools I experienced to use with <img align="right" src="https://wakatime.com/badge/user/018ccd8f-c558-4ba8-9ece-aa2a903198d7.svg"></th>
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">Front End & UI</td>
+    <td class="tg-0lax" width="30">Front End & UI</td>
     <td class="tg-0lax">
       <img align="center" src="https://img.shields.io/badge/Astro-18181b?logo=astro&logoColor=FF5D01">
       <img align="center" src="https://img.shields.io/badge/React-18181b?logo=react&logoColor=61DAFB">
@@ -78,6 +78,9 @@ A passionate system programmer and front-end developer. First year Information T
   </tr>
 </tbody>
 </table>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/alvitodev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="alvitodev" /></a></p><br><br>
