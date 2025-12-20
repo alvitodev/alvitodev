@@ -26,7 +26,7 @@ A passionate system programmer and front-end developer. First year Information T
 
 <table class="tg"><thead>
   <tr>
-    <th class="tg-0lax" colspan="2" align="left"><h4>⚙️ Tools I experienced to use with <img align="right" src="https://wakatime.com/badge/user/018ccd8f-c558-4ba8-9ece-aa2a903198d7.svg"></th>
+    <th class="tg-0lax" colspan="2" align="left">🛠️ Tools I experienced to use with <img align="right" src="https://wakatime.com/badge/user/018ccd8f-c558-4ba8-9ece-aa2a903198d7.svg"></th>
   </tr></thead>
 <tbody>
   <tr>
@@ -87,7 +87,8 @@ Markdown                           6 hrs 27 mins   █▒░░░░░░░�
 
 #
 
-<h3 align="center">Support:</h3>
+<div align="center">
+<h3>Support:</h3>
 <p><a href="https://ko-fi.com/alvitodev"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="alvitodev" /></a></p><br><br>
 
 ##### I also wrote blogs, feel free to check out!
