@@ -22,6 +22,8 @@ A passionate system programmer and front-end developer. First year Information T
 
 - ⚡ Fun fact: **I really love Nasi Pecel 🤤**
 ---
+<img src="https://wakatime.com/badge/user/018ccd8f-c558-4ba8-9ece-aa2a903198d7.svg">
+
 ### 🚀 Frontend & UI
 
 ![Astro](https://img.shields.io/static/v1?label=Astro&message=%20&color=18181b&logo=astro&logoColor=%23FF5D01&style=flat-square) ![React](https://img.shields.io/static/v1?label=React&message=%20&color=18181b&logo=react&logoColor=%2361DAFB&style=flat-square) ![Tailwind CSS](https://img.shields.io/static/v1?label=Tailwind%20CSS&message=%20&color=18181b&logo=tailwindcss&logoColor=%2306B6D4&style=flat-square) ![ShadcnUI](https://img.shields.io/static/v1?label=shadcn%2Fui&message=%20&color=18181b&logo=shadcnui&logoColor=%23FFFFFF&style=flat-square) ![TypeScript](https://img.shields.io/static/v1?label=TypeScript&message=%20&color=18181b&logo=typescript&logoColor=%233177C6&style=flat-square) ![Framer Motion](https://img.shields.io/static/v1?label=Framer%20Motion&message=%20&color=18181b&logo=framer&logoColor=%230055FF&style=flat-square)
@@ -59,25 +61,18 @@ Retrieved 2025-12-20, License - CC BY-SA 4.0
 
 <table align="center">
     <tr>
-        <td align="center"><img src="docs/img1.png?raw=true" alt="some text"></td>
         <td align="center">Some other text</td>
         <td align="center">More text</td>
     </tr>
     <tr>
-        <td align="center"><img src="docs/img2.png?raw=true" alt="some text"></td>
         <td align="center">Some other text 2</td>
         <td align="center">More text 2</td>
     </tr>
     <tr>
-        <td align="center"><img src="docs/img2.png?raw=true" alt="some text"></td>
         <td align="center">Some other text 2</td>
         <td align="center">More text 2</td>
     </tr>
-    <tr>
-        <td align="center"><img src="docs/img2.png?raw=true" alt="some text"></td>
-        <td align="center">Some other text 2</td>
-        <td align="center">More text 2</td>
-    </tr>
+    
 </table>
 
 |<span style="font-weight:normal">This is not</span>|<span style="font-weight:normal">A Header</span>|
@@ -86,6 +81,38 @@ Retrieved 2025-12-20, License - CC BY-SA 4.0
 |              Achieved using a                     | CSS hack                                       |
 |              Achieved using a                     | CSS hack                                       |
 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax" colspan="2">testingg</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">nama</td>
+    <td class="tg-0lax">https://img.shields.io/static/v1?label=Astro&amp;message=%20&amp;color=18181b&amp;logo=astro&amp;logoColor=%23FF5D01&amp;style=flat-square https://img.shields.io/static/v1?label=Astro&amp;message=%20&amp;color=18181b&amp;logo=astro&amp;logoColor=%23FF5D01&amp;style=flat-square</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
 
 
 
