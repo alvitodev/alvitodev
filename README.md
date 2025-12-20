@@ -78,12 +78,12 @@ Wakatime Stats: <img align="center" src="https://wakatime.com/badge/user/018ccd8
 <!--START_SECTION:waka-->
 
 ```txt
-Java                               24 hrs 57 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
-HTML                               22 hrs 11 mins  █████░░░░░░░░░░░░░░░░░░░░   20.60 %
-C++                                15 hrs 23 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
-CSS                                12 hrs 48 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-PHP                                6 hrs 44 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-Markdown                           6 hrs 27 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Java                               24 hrs 57 mins  ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.16 %
+HTML                               22 hrs 11 mins  ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.60 %
+C++                                15 hrs 23 mins  ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.29 %
+CSS                                12 hrs 48 mins  ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.89 %
+PHP                                6 hrs 44 mins   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.26 %
+Markdown                           6 hrs 27 mins   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.99 %
 ```
 
 <!--END_SECTION:waka-->
