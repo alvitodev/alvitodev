@@ -8,7 +8,7 @@
 
 A passionate system programmer and front-end developer. First year Information Technology at UNY.
 
-[![Instagram](https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white&style=plastic)](https://instagram.com/alvitodev) [![YouTube](https://img.shields.io/badge/-%23FF0000.svg?logo=YouTube&logoColor=white&style=plastic)](https://youtube.com/alvitodev) [![Discord](https://img.shields.io/badge/-%235865F2.svg?&logo=discord&logoColor=white&style=plastic)](https://discord.gg/esPpKPbzqC) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=plastic)](https://linkedin.com/in/alvitodev) [![Gmail](https://img.shields.io/badge/mail@alvito.dev-D14836?logo=gmail&logoColor=white&style=plastic&label=|)](mailto:mail@alvito.dev) <img align="right" src="https://komarev.com/ghpvc/?username=alvitodev&label=Profile%20views%20&color=yellow&style=flat" alt="alvitodev" />
+[![Instagram](https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat)](https://instagram.com/alvitodev) [![YouTube](https://img.shields.io/badge/-%23FF0000.svg?logo=YouTube&logoColor=white&style=flat)](https://youtube.com/alvitodev) [![Discord](https://img.shields.io/badge/-%235865F2.svg?&logo=discord&logoColor=white&style=flat)](https://discord.gg/esPpKPbzqC) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=flat)](https://linkedin.com/in/alvitodev) [![Gmail](https://img.shields.io/badge/mail@alvito.dev-D14836?logo=gmail&logoColor=white&style=flat&label=|)](mailto:mail@alvito.dev) <img align="right" src="https://komarev.com/ghpvc/?username=alvitodev&label=Profile%20views%20&color=yellow&style=flat" alt="alvitodev" />
 
 #
 
@@ -88,6 +88,8 @@ Markdown                           6 hrs 27 mins   █▒░░░░░░░�
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/alvitodev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="alvitodev" /></a></p><br><br>
+
+
 
 <br>
 
