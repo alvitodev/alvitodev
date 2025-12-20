@@ -1,6 +1,6 @@
 <img height="150" align="right" src="/assets/endministrator2.1ec20a16.png">
 
-<h3>
+<h2>
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://alvito.dev/">Alvito Devanova</a></b>
         </samp>
