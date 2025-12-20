@@ -8,21 +8,15 @@
 
 A passionate system programmer and front-end developer. First year Information Technology at UNY.
 
-[![JavaScript](https://img.shields.io/badge/--orange?logo=instagram&logoColor=white&style=for-the-badge)](https://www.javascript.com/) [![JavaScript](https://img.shields.io/badge/--red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.javascript.com/) [![JavaScript](https://img.shields.io/badge/--orange?logo=instagram&logoColor=white&style=for-the-badge)](https://www.javascript.com/) [![JavaScript](https://img.shields.io/badge/--red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.javascript.com/) [![JavaScript](https://img.shields.io/badge/--orange?logo=web&logoColor=white&style=for-the-badge)](https://www.javascript.com/) <img align="right" src="https://komarev.com/ghpvc/?username=alvitodev&label=Profile%20views%20&color=yellow&style=flat" alt="alvitodev" />
+[![Instagram](https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/alvitodev) [![YouTube](https://img.shields.io/badge/-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://youtube.com/alvitodev) [![Discord](https://img.shields.io/badge/-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/esPpKPbzqC) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/alvitodev) [![Gmail](https://img.shields.io/badge/mail@alvito.dev-D14836?logo=gmail&logoColor=white&style=for-the-badge&label=|)](mailto:mail@alvito.dev) <img align="right" src="https://komarev.com/ghpvc/?username=alvitodev&label=Profile%20views%20&color=yellow&style=flat" alt="alvitodev" />
 
 #
 
-- 🔭 I’m currently working on my personal website to showcase my projects: [alvito.dev](https://github.com/alvitodev/alvitodev.github.io)
+🔭 I’m currently working on my personal website to showcase my projects: [alvito.dev](https://github.com/alvitodev/alvitodev.github.io)
 
-- 🌱 I’m currently learning **Astro, Tailwind, JavaScript, C++, and Java** (for competitive programming); I’m also curious about Rust.
+🌱 I’m currently learning **Astro, Tailwind, JavaScript, C++, and Java** (for competitive programming); I’m also curious about Rust.
 
-- 👨‍💻 All my projects and articles are available at [https://alvito.dev/](https://alvito.dev/)
 
-- 📫 Reach me at **mail@alvito.dev**
-
-- 📄 My experience: [https://linkedin.com/in/alvitodev](https://linkedin.com/in/alvitodev)
-
-- ⚡ Fun fact: **I really love Nasi Pecel 🤤**
 
 # 
 
