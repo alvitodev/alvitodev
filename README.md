@@ -10,9 +10,7 @@ A passionate system programmer and front-end developer. First year Information T
 
 [![JavaScript](https://img.shields.io/badge/--orange?logo=instagram&logoColor=white&style=for-the-badge)](https://www.javascript.com/) [![JavaScript](https://img.shields.io/badge/--red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.javascript.com/) [![JavaScript](https://img.shields.io/badge/--orange?logo=instagram&logoColor=white&style=for-the-badge)](https://www.javascript.com/) [![JavaScript](https://img.shields.io/badge/--red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.javascript.com/) [![JavaScript](https://img.shields.io/badge/--orange?logo=instagram&logoColor=white&style=for-the-badge)](https://www.javascript.com/) <img align="right" src="https://komarev.com/ghpvc/?username=alvitodev&label=Profile%20views%20&color=yellow&style=flat" alt="alvitodev" />
 
-</div>
-
-#
+---
 
 - 🔭 I’m currently working on my personal website to showcase my projects: [alvito.dev](https://github.com/alvitodev/alvitodev.github.io)
 
@@ -32,18 +30,6 @@ A passionate system programmer and front-end developer. First year Information T
 
 ### 🚀 Frontend & UI
 
-![Astro](https://img.shields.io/static/v1?label=Astro&message=%20&color=18181b&logo=astro&logoColor=%23FF5D01&style=flat-square) ![React](https://img.shields.io/static/v1?label=React&message=%20&color=18181b&logo=react&logoColor=%2361DAFB&style=flat-square) ![Tailwind CSS](https://img.shields.io/static/v1?label=Tailwind%20CSS&message=%20&color=18181b&logo=tailwindcss&logoColor=%2306B6D4&style=flat-square) ![ShadcnUI](https://img.shields.io/static/v1?label=shadcn%2Fui&message=%20&color=18181b&logo=shadcnui&logoColor=%23FFFFFF&style=flat-square) ![TypeScript](https://img.shields.io/static/v1?label=TypeScript&message=%20&color=18181b&logo=typescript&logoColor=%233177C6&style=flat-square) ![Framer Motion](https://img.shields.io/static/v1?label=Framer%20Motion&message=%20&color=18181b&logo=framer&logoColor=%230055FF&style=flat-square)
-
-### 💻 Programming & Languages
-
-![Python](https://img.shields.io/static/v1?label=Python&message=%20&color=18181b&logo=python&logoColor=%233776AB&style=flat-square) ![Go](https://img.shields.io/static/v1?label=Go&message=%20&color=18181b&logo=go&logoColor=%2300ADD8&style=flat-square) ![Rust](https://img.shields.io/static/v1?label=Rust&message=%20&color=18181b&logo=rust&logoColor=%23000000&style=flat-square) ![Java](https://img.shields.io/static/v1?label=Java&message=%20&color=18181b&logo=openjdk&logoColor=%23ED8B00&style=flat-square) ![C++](https://img.shields.io/static/v1?label=C%2B%2B&message=%20&color=18181b&logo=c%2B%2B&logoColor=%2300599C&style=flat-square)
-
-##### 🗄️ Database & Infrastructure
-
-![PostgreSQL](https://img.shields.io/static/v1?label=PostgreSQL&message=%20&color=18181b&logo=postgresql&logoColor=%234169E1&style=flat-square) ![MySQL](https://img.shields.io/static/v1?label=MySQL&message=%20&color=18181b&logo=mysql&logoColor=%234479A1&style=flat-square) ![Docker](https://img.shields.io/static/v1?label=Docker&message=%20&color=18181b&logo=docker&logoColor=%232496ED&style=flat-square) ![Kubernetes](https://img.shields.io/static/v1?label=Kubernetes&message=%20&color=18181b&logo=kubernetes&logoColor=%23326CE5&style=flat-square) ![Proxmox](https://img.shields.io/static/v1?label=Proxmox&message=%20&color=18181b&logo=proxmox&logoColor=%23E57000&style=flat-square) ![Cloudflare](https://img.shields.io/static/v1?label=Cloudflare&message=%20&color=18181b&logo=cloudflare&logoColor=%23F38020&style=flat-square) ![Linux](https://img.shields.io/static/v1?label=Linux&message=%20&color=18181b&logo=linux&logoColor=%23FCC624&style=flat-square)
-
-##### 🎨 Design & Video : ![Figma](https://img.shields.io/static/v1?label=Figma&message=%20&color=18181b&logo=figma&logoColor=%23F24E1E&style=flat-square) ![Photoshop](https://img.shields.io/static/v1?label=Photoshop&message=%20&color=18181b&logo=adobe-photoshop&logoColor=%2331A8FF&style=flat-square) ![DaVinci Resolve](https://img.shields.io/static/v1?label=DaVinci%20Resolve&message=%20&color=18181b&logo=davinciresolve&logoColor=%230D1016&style=flat-square)
-
 <table class="tg"><thead>
   <tr>
     <th class="tg-0lax" colspan="2" align="left">Tools I experienced with</th>
@@ -52,20 +38,43 @@ A passionate system programmer and front-end developer. First year Information T
   <tr>
     <td class="tg-0lax">Front End & UI</td>
     <td class="tg-0lax">
-    <img src="https://img.shields.io/static/v1?label=Astro&message=%20&color=18181b&logo=astro&logoColor=%23FF5D01&style=flat-square">
+      <img src="https://img.shields.io/static/v1?label=Astro&message=%20&color=18181b&logo=astro&logoColor=%23FF5D01&style=flat-square">
+      <img src="https://img.shields.io/static/v1?label=React&message=%20&color=18181b&logo=react&logoColor=%2361DAFB&style=flat-square">
+      <img src="https://img.shields.io/static/v1?label=Tailwind%20CSS&message=%20&color=18181b&logo=tailwindcss&logoColor=%2306B6D4&style=flat-square">
+      <img src="https://img.shields.io/static/v1?label=shadcn%2Fui&message=%20&color=18181b&logo=shadcnui&logoColor=%23FFFFFF&style=flat-square">
+      <img src="https://img.shields.io/static/v1?label=TypeScript&message=%20&color=18181b&logo=typescript&logoColor=%233177C6&style=flat-square">
+      <img src="https://img.shields.io/static/v1?label=Framer%20Motion&message=%20&color=18181b&logo=framer&logoColor=%230055FF&style=flat-square">
     </td>
   </tr>
   <tr>
     <td class="tg-0lax">Programming Languages</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">
+      <img src="https://img.shields.io/static/v1?label=Python&message=%20&color=18181b&logo=python&logoColor=%233776AB&style=flat-square">
+      <img src="https://img.shields.io/static/v1?label=Go&message=%20&color=18181b&logo=go&logoColor=%2300ADD8&style=flat-square">
+      <img src="https://img.shields.io/static/v1?label=Rust&message=%20&color=18181b&logo=rust&logoColor=%23000000&style=flat-square">
+      <img src="https://img.shields.io/static/v1?label=Java&message=%20&color=18181b&logo=openjdk&logoColor=%23ED8B00&style=flat-square">
+      <img src="https://img.shields.io/static/v1?label=C%2B%2B&message=%20&color=18181b&logo=c%2B%2B&logoColor=%2300599C&style=flat-square">
+    </td>
   </tr>
   <tr>
     <td class="tg-0lax">Database & Infrastructure</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">
+      <img src="https://img.shields.io/static/v1?label=PostgreSQL&message=%20&color=18181b&logo=postgresql&logoColor=%234169E1&style=flat-square">
+      <img src="https://img.shields.io/static/v1?label=MySQL&message=%20&color=18181b&logo=mysql&logoColor=%234479A1&style=flat-square">
+      <img src="https://img.shields.io/static/v1?label=Docker&message=%20&color=18181b&logo=docker&logoColor=%232496ED&style=flat-square">
+      <img src="https://img.shields.io/static/v1?label=Kubernetes&message=%20&color=18181b&logo=kubernetes&logoColor=%23326CE5&style=flat-square">
+      <img src="https://img.shields.io/static/v1?label=Proxmox&message=%20&color=18181b&logo=proxmox&logoColor=%23E57000&style=flat-square">
+      <img src="https://img.shields.io/static/v1?label=Cloudflare&message=%20&color=18181b&logo=cloudflare&logoColor=%23F38020&style=flat-square">
+      <img src="https://img.shields.io/static/v1?label=Linux&message=%20&color=18181b&logo=linux&logoColor=%23FCC624&style=flat-square">
+    </td>
   </tr>
   <tr>
     <td class="tg-0lax">Design</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">
+      <img src="https://img.shields.io/static/v1?label=Figma&message=%20&color=18181b&logo=figma&logoColor=%23F24E1E&style=flat-square">
+      <img src="https://img.shields.io/static/v1?label=Photoshop&message=%20&color=18181b&logo=adobe-photoshop&logoColor=%2331A8FF&style=flat-square">
+      <img src="https://img.shields.io/static/v1?label=DaVinci%20Resolve&message=%20&color=18181b&logo=davinciresolve&logoColor=%230D1016&style=flat-square">
+    </td>
   </tr>
 </tbody>
 </table>
