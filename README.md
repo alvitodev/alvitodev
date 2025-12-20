@@ -18,7 +18,7 @@ A passionate system programmer and front-end developer. First year Information T
 
 
 
-# 
+
 
 <div align="center">
 
@@ -85,6 +85,7 @@ Markdown                           6 hrs 27 mins   █▒░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+#
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/alvitodev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="alvitodev" /></a></p><br><br>
