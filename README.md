@@ -7,7 +7,8 @@ A passionate system programmer and front-end developer. First year Information T
 [![JavaScript](https://img.shields.io/badge/--orange?logo=instagram&logoColor=white&style=for-the-badge)](https://www.javascript.com/) [![JavaScript](https://img.shields.io/badge/--red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.javascript.com/) [![JavaScript](https://img.shields.io/badge/--orange?logo=instagram&logoColor=white&style=for-the-badge)](https://www.javascript.com/) [![JavaScript](https://img.shields.io/badge/--red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.javascript.com/) [![JavaScript](https://img.shields.io/badge/--orange?logo=instagram&logoColor=white&style=for-the-badge)](https://www.javascript.com/) <img align="right" src="https://komarev.com/ghpvc/?username=alvitodev&label=Profile%20views%20&color=yellow&style=flat" alt="alvitodev" />
 </div>
 
----
+
+#
 
 - 🔭 I’m currently working on my personal website to showcase my projects: [alvito.dev](https://github.com/alvitodev/alvitodev.github.io)
 
