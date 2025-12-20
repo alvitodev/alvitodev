@@ -1,6 +1,10 @@
 <img height="150" align="right" src="/assets/endministrator2.1ec20a16.png">
 
-## I'm Alvito Devanova
+<h3>
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://alvito.dev/">Alvito Devanova</a></b>
+        </samp>
+</h3>
 
 A passionate system programmer and front-end developer. First year Information Technology at UNY.
 
@@ -82,14 +86,7 @@ Retrieved 2025-12-20, License - CC BY-SA 4.0
 |              Achieved using a                     | CSS hack                                       |
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+
 <table class="tg"><thead>
   <tr>
     <th class="tg-0lax" colspan="2">testingg</th>
