@@ -26,54 +26,54 @@ A passionate system programmer and front-end developer. First year Information T
 
 ---
 
-<img src="https://wakatime.com/badge/user/018ccd8f-c558-4ba8-9ece-aa2a903198d7.svg">
+<div align="center">
 
-### 🚀 Frontend & UI
+</div>
 
 <table class="tg"><thead>
   <tr>
-    <th class="tg-0lax" colspan="2" align="left">Tools I experienced with</th>
+    <th class="tg-0lax" colspan="2" align="left">Tools I experienced with <img align="right" src="https://wakatime.com/badge/user/018ccd8f-c558-4ba8-9ece-aa2a903198d7.svg"></th>
   </tr></thead>
 <tbody>
   <tr>
     <td class="tg-0lax">Front End & UI</td>
     <td class="tg-0lax">
-      <img src="https://img.shields.io/static/v1?label=Astro&message=%20&color=18181b&logo=astro&logoColor=%23FF5D01&style=flat-square">
-      <img src="https://img.shields.io/static/v1?label=React&message=%20&color=18181b&logo=react&logoColor=%2361DAFB&style=flat-square">
-      <img src="https://img.shields.io/static/v1?label=Tailwind%20CSS&message=%20&color=18181b&logo=tailwindcss&logoColor=%2306B6D4&style=flat-square">
-      <img src="https://img.shields.io/static/v1?label=shadcn%2Fui&message=%20&color=18181b&logo=shadcnui&logoColor=%23FFFFFF&style=flat-square">
-      <img src="https://img.shields.io/static/v1?label=TypeScript&message=%20&color=18181b&logo=typescript&logoColor=%233177C6&style=flat-square">
-      <img src="https://img.shields.io/static/v1?label=Framer%20Motion&message=%20&color=18181b&logo=framer&logoColor=%230055FF&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=Astro&message=%20&color=18181b&logo=astro&logoColor=%23FF5D01&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=React&message=%20&color=18181b&logo=react&logoColor=%2361DAFB&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=Tailwind%20CSS&message=%20&color=18181b&logo=tailwindcss&logoColor=%2306B6D4&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=shadcn%2Fui&message=%20&color=18181b&logo=shadcnui&logoColor=%23FFFFFF&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=TypeScript&message=%20&color=18181b&logo=typescript&logoColor=%233177C6&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=Framer%20Motion&message=%20&color=18181b&logo=framer&logoColor=%230055FF&style=flat-square">
     </td>
   </tr>
   <tr>
     <td class="tg-0lax">Programming Languages</td>
     <td class="tg-0lax">
-      <img src="https://img.shields.io/static/v1?label=Python&message=%20&color=18181b&logo=python&logoColor=%233776AB&style=flat-square">
-      <img src="https://img.shields.io/static/v1?label=Go&message=%20&color=18181b&logo=go&logoColor=%2300ADD8&style=flat-square">
-      <img src="https://img.shields.io/static/v1?label=Rust&message=%20&color=18181b&logo=rust&logoColor=%23000000&style=flat-square">
-      <img src="https://img.shields.io/static/v1?label=Java&message=%20&color=18181b&logo=openjdk&logoColor=%23ED8B00&style=flat-square">
-      <img src="https://img.shields.io/static/v1?label=C%2B%2B&message=%20&color=18181b&logo=c%2B%2B&logoColor=%2300599C&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=Python&message=%20&color=18181b&logo=python&logoColor=%233776AB&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=Go&message=%20&color=18181b&logo=go&logoColor=%2300ADD8&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=Rust&message=%20&color=18181b&logo=rust&logoColor=%23000000&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=Java&message=%20&color=18181b&logo=openjdk&logoColor=%23ED8B00&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=C%2B%2B&message=%20&color=18181b&logo=c%2B%2B&logoColor=%2300599C&style=flat-square">
     </td>
   </tr>
   <tr>
     <td class="tg-0lax">Database & Infrastructure</td>
     <td class="tg-0lax">
-      <img src="https://img.shields.io/static/v1?label=PostgreSQL&message=%20&color=18181b&logo=postgresql&logoColor=%234169E1&style=flat-square">
-      <img src="https://img.shields.io/static/v1?label=MySQL&message=%20&color=18181b&logo=mysql&logoColor=%234479A1&style=flat-square">
-      <img src="https://img.shields.io/static/v1?label=Docker&message=%20&color=18181b&logo=docker&logoColor=%232496ED&style=flat-square">
-      <img src="https://img.shields.io/static/v1?label=Kubernetes&message=%20&color=18181b&logo=kubernetes&logoColor=%23326CE5&style=flat-square">
-      <img src="https://img.shields.io/static/v1?label=Proxmox&message=%20&color=18181b&logo=proxmox&logoColor=%23E57000&style=flat-square">
-      <img src="https://img.shields.io/static/v1?label=Cloudflare&message=%20&color=18181b&logo=cloudflare&logoColor=%23F38020&style=flat-square">
-      <img src="https://img.shields.io/static/v1?label=Linux&message=%20&color=18181b&logo=linux&logoColor=%23FCC624&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=PostgreSQL&message=%20&color=18181b&logo=postgresql&logoColor=%234169E1&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=MySQL&message=%20&color=18181b&logo=mysql&logoColor=%234479A1&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=Docker&message=%20&color=18181b&logo=docker&logoColor=%232496ED&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=Kubernetes&message=%20&color=18181b&logo=kubernetes&logoColor=%23326CE5&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=Proxmox&message=%20&color=18181b&logo=proxmox&logoColor=%23E57000&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=Cloudflare&message=%20&color=18181b&logo=cloudflare&logoColor=%23F38020&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=Linux&message=%20&color=18181b&logo=linux&logoColor=%23FCC624&style=flat-square">
     </td>
   </tr>
   <tr>
     <td class="tg-0lax">Design</td>
     <td class="tg-0lax">
-      <img src="https://img.shields.io/static/v1?label=Figma&message=%20&color=18181b&logo=figma&logoColor=%23F24E1E&style=flat-square">
-      <img src="https://img.shields.io/static/v1?label=Photoshop&message=%20&color=18181b&logo=adobe-photoshop&logoColor=%2331A8FF&style=flat-square">
-      <img src="https://img.shields.io/static/v1?label=DaVinci%20Resolve&message=%20&color=18181b&logo=davinciresolve&logoColor=%230D1016&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=Figma&message=%20&color=18181b&logo=figma&logoColor=%23F24E1E&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=Photoshop&message=%20&color=18181b&logo=adobe-photoshop&logoColor=%2331A8FF&style=flat-square">
+      <img align="center" src="https://img.shields.io/static/v1?label=DaVinci%20Resolve&message=%20&color=18181b&logo=davinciresolve&logoColor=%230D1016&style=flat-square">
     </td>
   </tr>
 </tbody>
