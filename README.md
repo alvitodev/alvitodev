@@ -26,7 +26,7 @@ A passionate system programmer and front-end developer. First year Information T
 
 <table class="tg"><thead>
   <tr>
-    <th class="tg-0lax" colspan="2" align="left">🛠️ Tools I experienced to use with <img align="right" src="https://wakatime.com/badge/user/018ccd8f-c558-4ba8-9ece-aa2a903198d7.svg"></th>
+    <th class="tg-0lax" colspan="2" align="left">🛠️ Tools I experienced to use with </th>
   </tr></thead>
 <tbody>
   <tr>
@@ -72,6 +72,9 @@ A passionate system programmer and front-end developer. First year Information T
   </tr>
 </tbody>
 </table>
+<div align="center">
+Wakatime Stats: <img align="center" src="https://wakatime.com/badge/user/018ccd8f-c558-4ba8-9ece-aa2a903198d7.svg">
+</div>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -89,9 +92,9 @@ Markdown                           6 hrs 27 mins   █▒░░░░░░░�
 
 <div align="center">
 <h3>Support:</h3>
-<p><a href="https://ko-fi.com/alvitodev"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="alvitodev" /></a></p><br><br>
+<p><a href="https://ko-fi.com/alvitodev"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="alvitodev" /></a></p>
 
-##### I also wrote blogs, feel free to check out!
+#### I also wrote blogs, feel free to check out!
 <!-- BLOG-POST-LIST:START -->
 - [v1.5.0: “A Callout Component for Nerds”](https://astro-erudite.vercel.app/writing/callouts-component/)
 - [v1.6.0: &quot;Mobile Navigation &amp; Subposts&quot;](https://astro-erudite.vercel.app/writing/mobile-nav-and-subposts/)
