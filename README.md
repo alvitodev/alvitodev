@@ -79,6 +79,11 @@ A passionate system programmer and front-end developer. First year Information T
 </tbody>
 </table>
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
