@@ -39,10 +39,16 @@ A passionate system programmer and front-end developer. First year Information T
 |---|---|
 |__Bold Key__| Value1 |
 | Normal Key | Value2 |
+| Normal Key | Value2 |
+| Normal Key | Value2 |
+| Normal Key | Value2 |
 
 |Regular | text | in header | turns bold |
 |-|-|-|-|
 | __So__ | __bold__ | __all__ | __table entries__ |
+| __and__ | __it looks__ | __like a__ | __"headerless table"__ |
+| __and__ | __it looks__ | __like a__ | __"headerless table"__ |
+| __and__ | __it looks__ | __like a__ | __"headerless table"__ |
 | __and__ | __it looks__ | __like a__ | __"headerless table"__ |
 
 <!--
@@ -62,10 +68,22 @@ Retrieved 2025-12-20, License - CC BY-SA 4.0
         <td align="center">Some other text 2</td>
         <td align="center">More text 2</td>
     </tr>
+    <tr>
+        <td align="center"><img src="docs/img2.png?raw=true" alt="some text"></td>
+        <td align="center">Some other text 2</td>
+        <td align="center">More text 2</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="docs/img2.png?raw=true" alt="some text"></td>
+        <td align="center">Some other text 2</td>
+        <td align="center">More text 2</td>
+    </tr>
 </table>
 
 |<span style="font-weight:normal">This is not</span>|<span style="font-weight:normal">A Header</span>|
 |:---|:---|
+|              Achieved using a                     | CSS hack                                       |
+|              Achieved using a                     | CSS hack                                       |
 |              Achieved using a                     | CSS hack                                       |
 
 
