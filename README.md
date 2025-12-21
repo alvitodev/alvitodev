@@ -38,6 +38,11 @@ A passionate system programmer and front-end developer. First year Information T
       <img align="center" src="https://img.shields.io/badge/shadcn%2Fui-18181b?logo=shadcnui&logoColor=FFFFFF">
       <img align="center" src="https://img.shields.io/badge/TypeScript-18181b?logo=typescript&logoColor=3178C6">
       <img align="center" src="https://img.shields.io/badge/Framer%20Motion-18181b?logo=framer&logoColor=0055FF">
+      <img align="center" src="https://img.shields.io/badge/HTML-18181b?logo=html5&logoColor=E34F26">
+      <img align="center" src="https://img.shields.io/badge/CSS-18181b?logo=css3&logoColor=1572B6">
+      <img align="center" src="https://img.shields.io/badge/JavaScript-18181b?logo=javascript&logoColor=F7DF1E">
+      <img align="center" src="https://img.shields.io/badge/Vite-18181b?logo=vite&logoColor=646CFF">
+      <img align="center" src="https://img.shields.io/badge/Git-18181b?logo=git&logoColor=F05032">
     </td>
   </tr>
   <tr>
