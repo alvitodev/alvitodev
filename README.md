@@ -102,8 +102,8 @@ PHP                                7 hrs 2 mins          ⣿⣄⣀⣀⣀⣀⣀�
 #### I also wrote blogs, feel free to check out!
 <!-- BLOG-POST-LIST:START -->
 - [v1.5.0: “A Callout Component for Nerds”](https://alvitodev.github.io/writing/callouts-component/)
+- [v1.3.0: “Patches in Production”](https://alvitodev.github.io/writing/rehype-patch/)
+- [The State of Static Blogs in 2024](https://alvitodev.github.io/writing/the-state-of-static-blogs/)
 - [v1.6.0: &quot;Mobile Navigation &amp; Subposts&quot;](https://alvitodev.github.io/writing/mobile-nav-and-subposts/)
 - [Implementing sticky mobile navigation](https://alvitodev.github.io/writing/mobile-nav-and-subposts/mobile-navigation/)
-- [Implementing file-based subpost routing](https://alvitodev.github.io/writing/mobile-nav-and-subposts/subposts/)
-- [The State of Static Blogs in 2024](https://alvitodev.github.io/writing/the-state-of-static-blogs/)
 <!-- BLOG-POST-LIST:END -->
